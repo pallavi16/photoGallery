@@ -1,24 +1,4 @@
-# README
+# photoGallery
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple, easy-to-use ruby on rails application to keep your favorite photos saved online. A user can create, update and delete images from their gallery. It features various categories that can be added for specific images. This application provides a user authentication system to manage an account and create their choice of image gallery.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
